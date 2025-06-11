@@ -15,6 +15,26 @@ The **RecursiveTextSplitter** is a C# library that provides intelligent text spl
 
 ## Installation
 
+### Via NuGet Package Manager
+
+Install the RecursiveTextSplitter package from NuGet:
+
+```bash
+dotnet add package RecursiveTextSplitter
+```
+
+Or via Package Manager Console in Visual Studio:
+
+```powershell
+Install-Package RecursiveTextSplitter
+```
+
+Or search for "RecursiveTextSplitter" in the Visual Studio NuGet Package Manager UI.
+
+**NuGet Package:** https://www.nuget.org/packages/RecursiveTextSplitter/
+
+### Usage
+
 Add the namespace to your C# project:
 
 ```csharp
