@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net8.0;net9.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <WarningsAsErrors>Nullable;CS8600;CS8602;CS8603;CS0619</WarningsAsErrors>
+    <Authors>Hamed Fathi</Authors>
+    <Company />
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <Version>1.0.0</Version>
+    <Description>A smart C# text splitting library that intelligently chunks text while preserving semantic boundaries. Uses a hierarchical approach with configurable overlap and detailed metadata.</Description>
+    <LangVersion>latest</LangVersion>
+    <PackageProjectUrl>https://github.com/HamedFathi/RecursiveTextSplitter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/HamedFathi/RecursiveTextSplitter</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RootNamespace>RecursiveTextSplitting</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+</Project>
