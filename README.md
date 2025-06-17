@@ -153,18 +153,6 @@ We welcome contributions to make RecursiveTextSplitter even better! Here are som
 
 Your star helps others discover this library and motivates continued development.
 
-### 💡 **Feature Ideas & Improvements**
-
-Have ideas for new features or improvements? We'd love to hear them! Some areas we're considering:
-
-- **Additional splitting strategies** (e.g., token-based, language-specific)
-- **Performance optimizations** for very large documents
-- **Async/await support** for processing large files
-- **Custom metadata extraction** during splitting
-- **Integration with popular text processing libraries**
-- **Support for different text encodings**
-- **Streaming text splitting** for memory efficiency
-
 ### 🔧 **Pull Requests Welcome**
 
 We're open to pull requests! Whether you want to:
