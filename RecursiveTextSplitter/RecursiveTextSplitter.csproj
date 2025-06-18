@@ -7,7 +7,7 @@
     <Authors>Hamed Fathi</Authors>
     <Company />
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Description>A smart C# text splitting library that intelligently chunks text while preserving semantic boundaries. Uses a hierarchical approach with configurable overlap and detailed metadata.</Description>
     <LangVersion>latest</LangVersion>
     <PackageProjectUrl>https://github.com/HamedFathi/RecursiveTextSplitter</PackageProjectUrl>
